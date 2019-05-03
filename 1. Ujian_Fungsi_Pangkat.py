@@ -6,6 +6,6 @@ def pangkat(a, b):
     return c
 
 
-print(pangkat(3, 2))
+print(pangkat(2, 2))
 print(pangkat(3, 3))
 print(pangkat(10, 5))
